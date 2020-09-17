@@ -1,2 +1,3 @@
-# shoppinglist
-create a shopping list utilizing jQuery methods:.submit(), preventDefault(), toggleClass(), and closest().
+# Shopping List App Challenge
+
+This repo contains starter files for the *Shopping List App* challenge.
